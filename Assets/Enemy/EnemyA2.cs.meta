@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5176737ff2d9d44ac9582ae66d6541a7
+timeCreated: 1447477514
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - deadEnemy: {fileID: 21300000, guid: bd1989b4e42a0454097f657dfb368bd8, type: 3}
+  - damagedEnemy: {instanceID: 0}
+  - hundredPointsUI: {fileID: 100006, guid: 31974361bc9e44fb18c77b64a4cb3bbd, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
